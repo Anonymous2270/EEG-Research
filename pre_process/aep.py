@@ -1,13 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
- @author: Xin Zhang
- @contact: 2250271011@email.szu.edu.cn
- @time: 2023/3/2 21:04
- @desc:
-  Forked from https://github.com/numediart/EEGLearn-Pytorch
-  Bashivan, et al. "Learning Representations from EEG with Deep Recurrent-Convolutional Neural Networks." International
-  conference on learning representations (2016).
-"""
+
 
 from scipy.interpolate import griddata
 from sklearn.preprocessing import scale

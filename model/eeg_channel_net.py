@@ -1,13 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
- @author: Xin Zhang
- @contact: 2250271011@email.szu.edu.cn
- @time: 2023/4/1 15:48
- @desc:
-  This is the model presented in the work: S. Palazzo, C. Spampinato, I. Kavasidis, D. Giordano, J. Schmidt, M. Shah,
-  Decoding Brain Representations by Multimodal Learning of Neural Activity and Visual Features,  IEEE TRANSACTIONS ON
-  PATTERN ANALYSIS AND MACHINE INTELLIGENCE, 2020, doi: 10.1109/TPAMI.2020.2995909
-"""
+
 import einops
 import torch
 import torch.nn as nn

@@ -1,10 +1,4 @@
-# encoding: utf-8
-"""
-@author: Xin Zhang
-@contact: zhangxin@szbl.ac.cn
-@time: 12/5/21 9:02 PM
-@desc:
-"""
+
 import torch
 from torch.utils.data import DataLoader
 import time

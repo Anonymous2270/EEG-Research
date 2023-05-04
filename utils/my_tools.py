@@ -1,11 +1,4 @@
-# encoding: utf-8
-"""
-@author: Xin Zhang
-@contact: meetdevin.zh@outlook.com
-@file: my_tools.py
-@time: 3/6/19
-@desc: 自定义异常类
-"""
+
 
 import glob
 import os

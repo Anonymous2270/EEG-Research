@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
- @author: Xin Zhang
- @contact: 2250271011@email.szu.edu.cn
- @time: 2023/3/22 9:23
- @desc:
-"""
+
 
 import torch
 import torch.utils.data as tud

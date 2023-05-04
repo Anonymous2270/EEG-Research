@@ -1,11 +1,4 @@
-# encoding: utf-8
-"""
- @author: Xin Zhang
- @contact: 2250271011@email.szu.edu.cn
- @time: 2022/11/24 17:56
- @name: 
- @desc:
-"""
+
 from utils.my_tools import file_scanf2, mkdirs
 from torch.utils.data import DataLoader, Subset
 from sklearn.model_selection import StratifiedKFold

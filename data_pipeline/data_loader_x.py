@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
- @author: Xin Zhang
- @contact: 2250271011@email.szu.edu.cn
- @time: 2023/4/7 11:19
- @desc:
-"""
+
 from torch.utils.data import DataLoader
 import torch
 import threading

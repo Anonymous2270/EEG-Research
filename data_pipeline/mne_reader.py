@@ -1,10 +1,5 @@
 # encoding: utf-8
-"""
-@author: Xin Zhang
-@contact: zhangxin@szbl.ac.cn
-@time: 12/4/21 3:35 PM
-@desc:
-"""
+
 import mne
 import numpy as np
 from utils.my_tools import ExceptionPassing

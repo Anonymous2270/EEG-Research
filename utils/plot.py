@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
- @author: Xin Zhang
- @contact: 2250271011@email.szu.edu.cn
- @time: 2023/4/6 16:15
- @desc:
-"""
+
 import pickle
 import einops
 import numpy as np

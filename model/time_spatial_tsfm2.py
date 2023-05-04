@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
- @author: Xin Zhang
- @contact: 2250271011@email.szu.edu.cn
- @time: 2023/4/10 15:40
- @desc:
-"""
+
 import torch
 from torch import nn
 from modules.linear_conv2d import LinearConv2D

@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
- @author: Xin Zhang
- @contact: 2250271011@email.szu.edu.cn
- @time: 2023/4/2 16:08
- @desc:
-"""
+
 
 import torch
 import torch.nn as nn

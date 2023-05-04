@@ -1,11 +1,4 @@
-# encoding: utf-8
-"""
-@author: Xin Zhang
-@contact: zhangxin@szbl.ac.cn
-@time: 12/7/21 22:20 PM
-@desc:
-         see http://nlp.seas.harvard.edu/2018/04/03/attention.html for more details.
-"""
+
 # import torch
 
 

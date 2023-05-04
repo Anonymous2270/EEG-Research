@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
- @author: Xin Zhang
- @contact: 2250271011@email.szu.edu.cn
- @time: 2023/3/6 13:06
- @desc:
-   forked from https://github.com/MeetXinZhang/Spectrogram_frame-linear-network/blob/master/SFLN/linear_conv3d_layer.py
-   It was first proposed in my research https://doi.org/10.1016/j.ecoinf.2019.101009
-"""
+
 
 import torch
 import torch.nn as nn

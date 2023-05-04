@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
- @author: Xin Zhang
- @contact: 2250271011@email.szu.edu.cn
- @time: 2023/3/16 21:43
- @desc:
-"""
+
 import numpy as np
 import einops
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
